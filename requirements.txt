@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+ipykernel
+openpyxl
+fastapi
+uvicorn 
+requests
+logging
+langchain-groq 
+python-dotenv
